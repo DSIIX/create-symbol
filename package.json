@@ -1,0 +1,29 @@
+{
+  "name": "create-symbol",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "create-symbol": "./dist/cli.js"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "bun build src/cli.ts --target=node --outdir=dist && bun build src/index.ts --target=node --outdir=dist",
+    "prepublishOnly": "bun run build",
+    "test": "bun test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvanBacon/create-symbol.git"
+  },
+  "author": "Evan Bacon <baconbrix@gmail.com> (https://evanbacon.dev)",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
